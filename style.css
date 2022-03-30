@@ -1,0 +1,67 @@
+body{
+	margin: 20px;
+	font-family: lucida calligraphy;
+	background:url(stylesheet/vamp.jpg) no-repeat;
+	background-size: cover;
+	background-position: relative ;
+	background-attachment: all;
+
+}
+.Ad-space{
+    position:absolute;
+
+    
+}
+.input{
+		font-size: 25px;
+}
+.reg-area{
+	font-size: 40px;
+	margin-left: -250px;
+	margin-top: 70px;
+}
+.About{
+	margin-left: 30px;
+}
+.FAQ{
+	margin-left: 30px;
+}
+.Contacts{
+	margin-left: 30px;
+}
+.Help{
+	margin-left: 30px;
+}
+.register{
+	margin-left: -50px;
+}
+.button{
+	margin-left: 160px;
+	border-color: white;
+	font-family: lucida calligraphy;
+	font-size: 20px;
+}
+.site-header{
+	margin-left: 200px;
+}
+.image{
+	margin-left: 500px;
+}
+.Get{
+	margin-left: 400px;
+}
+.login-area{
+	font-size: 25px;
+	 margin-left: 300px;
+	color: red;
+	position: relative;
+
+}
+.footer-copyright{
+	color: white;
+}
+footer{ 
+    position:absolute;
+	position: bottom;
+	
+}

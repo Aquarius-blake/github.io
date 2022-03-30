@@ -1,0 +1,29 @@
+body{
+	margin: 20px;
+	font-family: lucida calligraphy;
+	background:url(stylesheet/coast.jpg) no-repeat;
+	background-size: cover;
+	background-position: ;
+}
+.site-header{
+	margin-left: 200px;
+}
+.image{
+	margin-left: 500px;
+}
+.Get{
+	margin-left: 400px;
+}
+.login-area{
+	 margin-left: 300px;
+	color: red;
+	position: relative;
+
+}
+.footer-copyright{
+	color: white;
+}
+footer{ 
+	position: bottom
+	
+}
